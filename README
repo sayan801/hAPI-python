@@ -1,0 +1,7 @@
+hAPI-python: a hAPI library and CLI in Python
+Internap Network Services Corporation and Mochila Inc.
+http://api.voxel.net/docs/
+
+See the hAPI docs at http://api.voxel.net/docs/ for details of hAPI.  
+This is a simple class for making hAPI calls, and a couple 
+accompanying examples to show usage.

@@ -70,7 +70,7 @@ class Client:
     __xmlout = False
     __headers = None
 
-    def __init__(self, key=None, secret=None, ssl=False):
+    def __init__(self, key=None, secret=None, ssl=True):
         self.methodparts = []
         self.key = key
         self.secret = secret
